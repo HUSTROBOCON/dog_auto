@@ -1,0 +1,5 @@
+<launch>
+    <!-- 启动节点 -->
+    <node name="up_main" pkg="unitree_guide" type="shit" output="screen"/>
+    
+</launch>
